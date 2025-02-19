@@ -1,0 +1,12 @@
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\bin\Debug\MusicaImports.exe.config
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\bin\Debug\MusicaImports.exe
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\bin\Debug\MusicaImports.pdb
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\bin\Debug\CustomControls.dll
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.csproj.AssemblyReference.cache
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.Form1.resources
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.Properties.Resources.resources
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.csproj.GenerateResource.cache
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.csproj.CoreCompileInputs.cache
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaIm.92E75C4B.Up2Date
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.exe
+C:\Users\AdriánSebastiánGuerr\source\repos\MusicaImports\MusicaImports\obj\Debug\MusicaImports.pdb
